@@ -1,5 +1,4 @@
-def my_hash
-  # hash = {name => danny, age => 28}
+def my_hash = {name => danny, age => 28}
   
 end
 
